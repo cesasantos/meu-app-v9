@@ -1,0 +1,5 @@
+{
+  "name": "GoatScore",
+  "description": "An AI-powered sports betting analysis tool that provides detailed statistical insights for football matches using real-time data from Google Search.",
+  "requestFramePermissions": []
+}
